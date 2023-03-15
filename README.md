@@ -11,4 +11,4 @@ Kullanının girdiği uzunlukta istediği sayıda sifre oluşturur. Kullanıcı 
 
 ## 3- Müşteri Ekleme Uygulaması
 
-Formlar arası geçiş ve constructor kullanımı uygulaması. 
+Formlar arası geçiş ve constructor kullanımı uygulaması.
